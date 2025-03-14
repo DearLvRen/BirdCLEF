@@ -4,7 +4,8 @@
 
 ## 0.0.1
 ### Data Analyze
-   ![image](https://github.com/user-attachments/assets/3f978980-449b-4616-8dc7-d9e0c0d03f5a)
+   ![image](https://github.com/user-attachments/assets/467ca139-c1ec-4bbc-9694-dafa26d8cce7)
+
 
 ## 0.0.2(baseline)
 
